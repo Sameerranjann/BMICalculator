@@ -1,0 +1,17 @@
+<resources>
+    <string name="enter_your_weight">Enter Your Weight:</string>
+    <string name="enter_your_height_in_ft">Enter your Height(in Ft)</string>
+    <string name="enter_your_height_in_in">Enter your height (in In)</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="result">Result</string>
+    <string name="app_name">BMI Calculator</string>
+
+    <string name="next">Next</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet...</string> <!-- Placeholder text -->
+    <string name="previous">Previous</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="bmi_calculator" />
+
+</resources>
